@@ -1,0 +1,5 @@
+<context id="stori" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+  	<projection id="space" type="continuous space"/>
+	<projection id="grid" type="grid"/>
+	<projection id="staking network" type="network"/>
+</context>
