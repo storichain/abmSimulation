@@ -1,3 +1,6 @@
+### 블록체인 프로젝트의 시뮬레이션이 필요한 이유를 먼저 아래 링크를 읽어주세요
+https://blog.naver.com/kjamjalee/221385714161
+
 # Storichain Hackathon Work
 # Story Industry Protocol & dApps for Story Creation & IP Trade
 스토리체인 : 이야기 산업을 위한 스토리 창작 및 신뢰 거래계약 프로토콜 및 dApp
