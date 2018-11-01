@@ -1,4 +1,4 @@
-### 블록체인 프로젝트의 시뮬레이션이 필요한 이유를 먼저 아래 링크를 읽어주세요
+### 블록체인 프로젝트에 시뮬레이션이 필요한 이유를 먼저 아래 링크를 읽어주세요
 https://blog.naver.com/kjamjalee/221385714161
 
 # Storichain Hackathon Work
